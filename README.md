@@ -2,7 +2,7 @@
 - 👀 I’m interested in music
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on data science and linguistics
-- 📫 My email address is g4zhang@ucsd.edu
+- 📫 My email address is gtzhang2002@gmail.com
 
 <!---
 GuantongZhang/GuantongZhang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
